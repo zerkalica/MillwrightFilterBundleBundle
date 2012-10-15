@@ -12,9 +12,9 @@
     },
     "autoload": {
         "psr-0": {
-            "Millwright\\FilterPaginatorBundle": ""
+            "Millwright\\FilterBundle": ""
         }
     },
-    "target-dir": "Millwright/FilterPaginatorBundle",
+    "target-dir": "Millwright/FilterBundle",
     "minimum-stability": "dev"
 }
