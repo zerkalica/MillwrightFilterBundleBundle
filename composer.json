@@ -1,0 +1,21 @@
+{
+    "name": "zerkalica/filter-bundle",
+    "description": "Millwright filter bundle: glue together KnpPaginatorBundle and LexikFormFilterBundle",
+    "authors": [
+        {
+            "name": "Stefan Zerkalica",
+            "email": "zerkalica@gmail.com"
+        }
+    ],
+    "require": {
+        "knplabs/knp-paginator-bundle": "dev-master",
+        "lexik/form-filter-bundle": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+            "Millwright\\FilterPaginatorBundle": ""
+        }
+    },
+    "target-dir": "Millwright/FilterPaginatorBundle",
+    "minimum-stability": "dev"
+}

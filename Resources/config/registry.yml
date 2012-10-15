@@ -1,0 +1,3 @@
+services:
+    millwright_filter.registry:
+        class: Millwright\FilterBundle\OptionRegistry

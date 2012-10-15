@@ -1,0 +1,7 @@
+services:
+    millwright_filter.twig.extension:
+        class: Millwright\FilterBundle\Twig\FilterExtension
+        arguments:
+            - @millwright_filter.registry
+        tags:
+            - { name: twig.extension }
