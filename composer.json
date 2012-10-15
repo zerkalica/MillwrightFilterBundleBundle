@@ -9,7 +9,6 @@
     ],
     "require": {
         "knplabs/knp-paginator-bundle": "dev-master",
-        "lexik/form-filter-bundle": "dev-master"
     },
     "autoload": {
         "psr-0": {
