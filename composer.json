@@ -1,5 +1,5 @@
 {
-    "name": "zerkalica/filter-bundle",
+    "name": "zerkalica/millwright-filter-bundle",
     "description": "Millwright filter bundle: glue together KnpPaginatorBundle and LexikFormFilterBundle",
     "authors": [
         {
