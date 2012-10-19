@@ -1,7 +1,7 @@
 <?php
 namespace Millwright\FilterBundle\Twig;
 
-use Millwright\FilterBundle\OptionRegistryInterface;
+use Millwright\Util\Request\OptionRegistryInterface;
 
 /**
  * Twig extension for Bootstrap helpers

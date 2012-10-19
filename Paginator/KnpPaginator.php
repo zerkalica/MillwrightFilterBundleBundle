@@ -10,7 +10,7 @@ use Knp\Component\Pager\Paginator as BasePaginator;
 
 use Lexik\Bundle\FormFilterBundle\Filter\FilterBuilderUpdaterInterface;
 
-use Millwright\FilterBundle\OptionRegistryInterface;
+use Millwright\Util\Request\OptionRegistryInterface;
 
 /**
  * Knp paginator with filter

@@ -47,7 +47,7 @@ options_query(overrides, exlude_namespace) - returns string, builds http query, 
 In controller:
 
 ``` php
-    /** @var $options \Millwright\FilterBundle\OptionRegistryInterface */
+    /** @var $options \Millwright\Util\Request\OptionRegistryInterface */
     $options = $this->get('millwright_filter.registry');
     $options->addOption('current', $currentDate->format(DateUtil::SQL_DATE));
 
